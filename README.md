@@ -23,4 +23,6 @@ standard input
 standard output
 
     Case #1: 82
+
+Note
     For the first test case, two more sketchpads should be prepared for each painting competition.
