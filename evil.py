@@ -1,7 +1,7 @@
 # import math from Python
 #python3 evil.py
 import sys, math
-
+# 13, 11, 11, 11, 13, 11
 def compute_sketchpads(): 
     test_cases = int(sys.stdin.readline().strip())
     # For each test case, the first line contains an integer N, where N is the number of competitions. The next line contains N integers a1, a2, . . . , aN representing the number of competitors in each competition.
