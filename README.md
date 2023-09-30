@@ -3,6 +3,9 @@
 ###### https://codeforces.com/gym/104207/attachments/download/19250/statement.pdf
 ###### 2017 CCPC Final Contest Onsite Round, Sunday, December 3rd, 2017
 
+###### others
+* https://www.geeksforgeeks.org/difference-between-input-and-sys-stdin-readline/
+
 ##### The Bear, king of the forest, loves painting very much. His masterpiece – “Back in time” is very famous around all over the forest. Recently he wants to hold a series painting competition to select those animals who are good at painting as well. So the Bear appoints his minister Tiger to help him prepare the painting competitions.  Tiger owns a stationery factory which produces sketchpad, so he wants to let all the competitions use the sketchpads produced by his factory privately. The Bear plans to hold N painting competitions, and informs Tiger of the number of competitors who are ready for each competition. One competitor needs only one sketchpad in one competition. For each competition, at least 10% extra sketchpads are required as backup just in case. The Tiger assigns you, his loyal subordinate to calculate the minimum number of sketchpads produced by his factory.
 
 #### Input
