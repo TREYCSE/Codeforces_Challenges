@@ -31,7 +31,7 @@ compute_sketchpads()
 #test input values
 # 1
 # 6
-# 13, 11, 11, 11, 13, 11
+# "13, 11, 11, 11, 13, 11"
 
 # test output
 # Case #1: 82
